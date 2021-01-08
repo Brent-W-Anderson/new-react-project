@@ -1,7 +1,7 @@
 Boiler plate to get a new react project quickly up and running.
 
 "npm run-script build"
-    - Creates a development/production (configurable from within webpack.config.js) bundle of the index.js. 
+    - Creates a development/production bundle (configurable from within webpack.config.js) of the index.js. 
 
 "npm start"
     - Launches a local server (also configurable from within webpack.config.js and live reloading enabled). 
